@@ -1,0 +1,12 @@
+Hello, World! This is a test file for Huffman compression algorithm.
+The quick brown fox jumps over the lazy dog.
+This sentence contains every letter of the alphabet at least once.
+
+Huffman coding is a lossless data compression algorithm.
+It uses variable-length codes for different characters based on their frequency.
+More frequent characters get shorter codes, while less frequent ones get longer codes.
+
+This results in overall compression when the frequency distribution is not uniform.
+The algorithm was developed by David A. Huffman in 1952.
+
+Let's test this compression with various types of content!
